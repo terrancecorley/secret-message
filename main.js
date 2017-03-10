@@ -22,3 +22,5 @@ button.addEventListener('click', () => {
     msg[i].style.fontSize = '32px';
   }
 });
+
+// Test
